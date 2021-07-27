@@ -15,7 +15,7 @@ this project is a practice prioject for lab 18 of 401 course at asac
   - [root URL](http://cloudserver-env.eba-eiv77qmg.us-east-1.elasticbeanstalk.com/)
     `http://cloudserver-env.eba-eiv77qmg.us-east-1.elasticbeanstalk.com/`
 
-  - ![NML](./lab18.jpg)
+  - ![NML](./lab18.JPG)
 
 ---
 
