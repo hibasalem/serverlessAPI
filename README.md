@@ -13,7 +13,7 @@ this project is a practice prioject for lab 18 of 401 course at asac
 - ### deploy links
 
   - [root URL](https://tpf6kd1qzb.execute-api.us-east-1.amazonaws.com/clothes)
-    `http://cloudserver-env.eba-eiv77qmg.us-east-1.elasticbeanstalk.com/`
+    `https://tpf6kd1qzb.execute-api.us-east-1.amazonaws.com/clothes`
 
   - ![NML](./lab18.JPG)
 
